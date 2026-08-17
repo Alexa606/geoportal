@@ -99,8 +99,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    'django.contrib.gis',
-    'capas'
+    "django.contrib.gis",
+    "apps.capas.apps.CapasConfig",
 ]
 
 MIDDLEWARE = [
