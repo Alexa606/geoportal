@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class CapasConfig(AppConfig):
-    name = "apps.capas"
+    name = "capas"
     label = "capas"
